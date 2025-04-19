@@ -1,6 +1,6 @@
-# 🪙 Indian Coin Detection using YOLOv5
+# 🪙 Indian Coin Detection using YOLO11
 
-This project fine-tunes a pre-trained YOLOv11 model to detect Indian currency coins: ₹1, ₹2, ₹5, ₹10, and 50 paise. The model is trained on custom-labeled images and can be used to detect coins in real-time or static images.
+This project fine-tunes a pre-trained YOLO11s model to detect Indian currency coins: ₹1, ₹2, ₹5, ₹10, and 50 paise. The model is trained on custom-labeled images and can be used to detect coins in real-time or static images.
 
 <p align="center">
   <img src="demo/coin_detection_sample.jpg" width="500" />
@@ -24,12 +24,10 @@ This project fine-tunes a pre-trained YOLOv11 model to detect Indian currency co
 ---
 
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/nishanthi-ds/Indian-Coin-Detection-Using-YOLO11s.git
-cd coin-detection-yolo
+
 
 
