@@ -8,5 +8,28 @@ This project fine-tunes a pre-trained YOLOv11 model to detect Indian currency co
 
 ---
 
-## 📁 Project Structure
+## 🧠 Model Details
+
+- **Base Model**: YOLO11s
+- **Framework**: PyTorch
+- **Classes**:
+  - 0: 50 Paise
+  - 1: ₹1
+  - 2: ₹2
+  - 3: ₹5
+  - 4: ₹10
+- **Annotation Format**: YOLO (class, x_center, y_center, width, height)
+- **Input Size**: 640x640
+
+---
+
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/nishanthi-ds/Indian-Coin-Detection-Using-YOLO11s.git
+cd coin-detection-yolo
+
 
