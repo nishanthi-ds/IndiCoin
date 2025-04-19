@@ -23,6 +23,9 @@ This project fine-tunes a pre-trained YOLO11s model to detect Indian currency co
 
 ---
 
+## 📊 Dataset Annotation Overview
+
+![Dataset Visualization](labels.jpg)
 
 ### Clone the Repository
 
