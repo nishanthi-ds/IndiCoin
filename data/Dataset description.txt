@@ -1,0 +1,6 @@
+indian_coins_dataset - https://www.kaggle.com/datasets/vishu53/indian-coins-dataset
+
+
+Image Dataset of Indian Coins - https://data.mendeley.com/datasets/txn6vz28g9/1
+Description
+The "Image Dataset of Indian Coins" is a meticulously curated and comprehensive collection comprising a total of 6,680 good-quality images, each offering a detailed visual representation of coins that are an integral part of India's currency system. The dataset has been thoughtfully organized into separate folders, dedicated to various coin denominations, including 25 paisa, 50 paisa, 1 rupee, 2 rupees, 5 rupees, 10 rupees, and 20 rupees. Within each denomination folder, a wealth of imagery captures the distinct characteristics of both the obverse (front) and reverse (back) sides of the coins. This dual-perspective approach offers a comprehensive view of the intricate designs, symbols, inscriptions, and historical elements present on each coin.
