@@ -27,10 +27,5 @@ This project fine-tunes a pre-trained YOLO11s model to detect Indian currency co
 
 ![Dataset Visualization](data/labels.jpg)
 
-### Clone the Repository
-
-```bash
-git clone https://github.com/nishanthi-ds/Indian-Coin-Detection-Using-YOLO11s.git
-```
 
 
