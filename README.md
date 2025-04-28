@@ -4,12 +4,12 @@
 
 This project uses YOLO to detect and estimate the value of coins from images.
 
-![Output Prediction](images/output_predictions.png)
+![Output Prediction](images/result1.png)
 
 
 ## Dataset Overview
 
-![Dataset Annotation Overview](images/dataset_annotation_overview.png)
+![Dataset Annotation Overview](data/labels.jpg)
 
 ## Project Workflow
 
@@ -34,7 +34,7 @@ This project uses YOLO to detect and estimate the value of coins from images.
 
 ## Block Diagram
 
-![Block Diagram](images/block_diagram.png)
+![Block Diagram](images/Block Diagram.png)
 
 ---
 
