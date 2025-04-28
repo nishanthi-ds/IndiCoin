@@ -34,7 +34,7 @@ This project uses YOLO to detect and estimate the value of coins from images.
 
 ## Block Diagram
 
-![Block Diagram](images/Block Diagram.png)
+![Block Diagram](images/Block_Diagram.png)
 
 ---
 
