@@ -1,7 +1,15 @@
 
-# IndiCoin: Automated Coin Value Estimator
+# IndiCoin: Automated Coin Detection and  Value Estimation System using Yolo
+
 
 This project uses YOLO to detect and estimate the value of coins from images.
+
+![Output Prediction](images/output_predictions.png)
+
+
+## Dataset Overview
+
+![Dataset Annotation Overview](images/dataset_annotation_overview.png)
 
 ## Project Workflow
 
@@ -24,16 +32,11 @@ This project uses YOLO to detect and estimate the value of coins from images.
 6. **Model Inference**
    - Use trained model to detect and estimate coin values on new images.
 
-## Folder Structure
+## Block Diagram
 
-```
-/content
-  /data.yaml
-  /train_images
-  /test_images
-  /models
-  /results
-```
+![Block Diagram](images/block_diagram.png)
+
+---
 
 ## Requirements
 
@@ -47,30 +50,5 @@ Install requirements:
 pip install ultralytics opencv-python torch
 ```
 
-## How to Run
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/indicoin-coin-estimator.git
-   ```
 
-2. Navigate into the project directory:
-   ```bash
-   cd indicoin-coin-estimator
-   ```
-
-3. Start training:
-   ```bash
-   yolo detect train data=/content/data.yaml model=yolo11s.pt epochs=30 imgsz=640
-   ```
-
-4. Perform inference/testing after training.
-
-## Notes
-
-- Ensure correct paths in `data.yaml`.
-- Modify epochs, model size (`imgsz`), and model architecture as needed.
-
----
-
-Created with ❤️ by [Your Name]
