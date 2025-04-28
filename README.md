@@ -1,15 +1,11 @@
 
 # IndiCoin: Automated Coin Detection and  Value Estimation System using Yolo
+      The IndiCoin project is a computer vision-based solution that uses the YOLO (You Only Look Once) deep learning model for detecting and estimating the value of coins in images. The model is trained to detect various Indian coin denominations and classify them accurately, providing an automated estimation of the total coin value present in any given image.
 
-
-This project uses YOLO to detect and estimate the value of coins from images.
+The project includes a dataset of Indian coins, annotated using tools like Label Studio, and a YOLO-based object detection and classification pipeline. After training the model, it can infer the value of coins in real-time or batch processing applications. The system can be useful for various real-world applications like coin-based inventory systems, smart vending machines, or any system that requires automatic recognition and summation of coins.
 
 ![Output Prediction](images/result1.png)
 
-
-## Dataset Overview
-
-![Dataset Annotation Overview](data/labels.jpg)
 
 ## Project Workflow
 
