@@ -13,10 +13,7 @@ This project uses YOLO to detect and estimate the value of coins from images.
    - Split the dataset into training and testing sets.
 
 3. **Train YOLO Model**
-   - Command used:
-     ```bash
-     yolo detect train data=/content/data.yaml model=yolo11s.pt epochs=30 imgsz=640
-     ```
+   - Training Yolo model for Detection and Classification
 
 4. **Model Saving**
    - Trained model is saved automatically after training.
