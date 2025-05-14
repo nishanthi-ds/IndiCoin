@@ -5,6 +5,10 @@ The IndiCoin project is a computer vision-based solution that uses the YOLO (You
 
 The project includes a dataset of Indian coins, annotated using tools like Label Studio, and a YOLO-based object detection and classification pipeline. After training the model, it can infer the value of coins in real-time or batch processing applications. The system can be useful for various real-world applications like coin-based inventory systems, smart vending machines, or any system that requires automatic recognition and summation of coins.
 
+**Check out the live demo on Streamlit**:  
+[https://<your-streamlit-username>.streamlit.app](https://indicoin-exbtr69h9xu2krgpzreu4v.streamlit.app/)
+
+
 ![Output Prediction](demo.png)
 
 
